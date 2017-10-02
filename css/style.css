@@ -1,0 +1,17 @@
+
+marketing .col-lg-4 p 
+{
+  margin-right: 0px;
+  margin-left: 0px;
+}
+.intro-text
+{
+    text-align: center;
+    color: #FFF;
+    line-height: 75px;
+    z-index: 0;
+    text-transform: uppercase;
+    font-size: 65px;
+    float: none;
+    margin-bottom: 60px;
+}
